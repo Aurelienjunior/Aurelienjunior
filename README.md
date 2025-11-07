@@ -1,13 +1,13 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&width=700&lines=Hey%20there!%20👋;I'm%20Aurelien%20Junior%20a%20Frontend%20developer;Turning%20ideas%20into%20interactive%20web%20experiences%20🌱;Helping%20brands%20shine%20and%20clients%20grow%20🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=7C3AED&center=true&width=700&lines=Hey%20there!%20👋;I'm%20Aurelien%20Junior%20a%20Web%20developer;Turning%20ideas%20into%20interactive%20web%20experiences%20🌱;Helping%20brands%20shine%20and%20clients%20grow%20🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ## Bringing Digital Ideas to Life  
 
-I’m **Aurelien Junior**, a **Frontend Developer & Creative Web Experience Builder**.  
+I’m **Aurelien Junior**, a **Web Developer & Creative Web Experience Builder**.  
 
 I help **businesses, creators, and brands** turn their ideas into **beautiful, interactive, and high-performing digital experiences** designed to **boost visibility, increase engagement, and drive growth**.  
 
